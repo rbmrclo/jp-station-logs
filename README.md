@@ -26,6 +26,7 @@
 - [Togoshi-Ginza](#Togoshi-Ginza)
 - [Tsukiji](#Tsukiji)
 - [Yotsuya](#Yotsuya)
+- [Ikebukuro](#Ikebukuro)
 
 #### Hatchobori
 
@@ -163,6 +164,11 @@
 - There's a "recycled" bicycle store here known as Recycle Garden Yoyogi.
 - There's also some decent restaurants here for food tripping.
 - Go here for [La Saison] french bakery. Almond croissant wont disappoint.
+
+#### Ikebukuro
+
+- Very crowded. Shopping place!
+- There's a BIC Camera and Loft here.
 
 ---
 
