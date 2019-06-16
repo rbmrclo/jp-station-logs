@@ -23,6 +23,8 @@
 - [Akibahara](#Akibahara)
 - [Yotsuya](#Yotsuya)
 - [Ropponggi](#Ropponggi)
+- [Akabane](#Akabane)
+- [Gotanda](#Gotanda)
 
 #### Hatchobori
 
@@ -143,6 +145,18 @@
 - There's also a branch of [Jomon] here.
 - [Franciscan Chapel Center] here. (English Mass @ 12PM)
 
+#### Akabane
+
+- Lots of Izakayas!
+- Go here for drinking / eating! Good for catch-ups!
+- There's a [Yayoiken] branch here. (our favorite restaurant!)
+- Go here for [Melon de Melon] - melon pan!
+
+#### Gotanda
+
+- Street performers outside of the station. (usually musical performers)
+- There's a [Yayoiken] branch here. (our favorite restaurant!)
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -160,3 +174,5 @@
 [Shake Shack]: https://www.shakeshack.com/
 [St. Ignatius Catholic Church]: https://www.facebook.com/pages/StIgnatius-Church-Yotsuya-Tokyo/107561729327132
 [Franciscan Chapel Center]: http://franciscanchapelcentertokyo.org/
+[Yayoiken]: https://www.yayoiken.com/en/
+[Melon de Melon]: http://www.melon-de-melon.com/shop/detail/id=316
