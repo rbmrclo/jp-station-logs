@@ -12,21 +12,24 @@
 - [Gotanda](#Gotanda)
 - [Harajuki](#Harajuku)
 - [Hatchobori](#Hatchobori)
+- [Ikebukuro](#Ikebukuro)
+- [Kamiyacho](#Kamiyacho)
 - [Meguro](#Meguro)
 - [Minami-Funabashi](#Minami-Funabashi)
 - [Nihombashi](#Nihombashi)
 - [Oji-kamiya](#Oji-kamiya)
 - [Oji](#Oji)
 - [Omotesando](#Omotesando)
+- [Oshiage](#Oshiage)
 - [Ropponggi](#Ropponggi)
 - [Sangubashi](#Sangubashi)
 - [Shibuya](#Shibuya)
 - [Shimokitazawa](#Shimokitazawa)
+- [Shinagawa](#Shinagawa)
 - [Tamachi](#Tamachi)
 - [Togoshi-Ginza](#Togoshi-Ginza)
 - [Tsukiji](#Tsukiji)
 - [Yotsuya](#Yotsuya)
-- [Ikebukuro](#Ikebukuro)
 
 #### Hatchobori
 
@@ -170,6 +173,20 @@
 - Very crowded. Shopping place!
 - There's a BIC Camera and Loft here.
 
+#### Oshiage
+
+- Tokyo Skytree. (not really worth it)
+- Tourist spot.
+
+#### Kamiyacho
+
+- Tokyo Tower. (not really worth it)
+- Tourist spot.
+
+#### Shinagawa
+
+- Assembly for [Yakatabune Tour]
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -190,3 +207,4 @@
 [Yayoiken]: https://www.yayoiken.com/en/
 [Melon de Melon]: http://www.melon-de-melon.com/shop/detail/id=316
 [La Saison]: https://www.la-saison.jp/
+[Yakatabune Tour]: http://www.yakatabune-kumiai.jp/en/
