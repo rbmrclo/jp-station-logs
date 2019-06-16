@@ -4,27 +4,28 @@
 
 ## Tokyo
 
-- [Hatchobori](#Hatchobori)
-- [Nihombashi](#Nihombashi)
-- [Tsukiji](#Tsukiji)
-- [Shibuya](#Shibuya)
-- [Ginza](#Ginza)
-- [Shimokitazawa](#Shimokitazawa)
-- [Harajuki](#Harajuku)
-- [Omotesando](#Omotesando)
-- [Oji](#Oji)
-- [Oji-kamiya](#Oji-kamiya)
-- [Meguro](#Meguro)
-- [Tamachi](#Tamachi)
-- [Ebisu](#Ebisu)
-- [Togoshi-Ginza](#Togoshi-Ginza)
-- [Minami-Funabashi](#Minami-Funabashi)
-- [Asakusa](#Asakusa)
-- [Akibahara](#Akibahara)
-- [Yotsuya](#Yotsuya)
-- [Ropponggi](#Ropponggi)
 - [Akabane](#Akabane)
+- [Akibahara](#Akibahara)
+- [Asakusa](#Asakusa)
+- [Ebisu](#Ebisu)
+- [Ginza](#Ginza)
 - [Gotanda](#Gotanda)
+- [Harajuki](#Harajuku)
+- [Hatchobori](#Hatchobori)
+- [Meguro](#Meguro)
+- [Minami-Funabashi](#Minami-Funabashi)
+- [Nihombashi](#Nihombashi)
+- [Oji-kamiya](#Oji-kamiya)
+- [Oji](#Oji)
+- [Omotesando](#Omotesando)
+- [Ropponggi](#Ropponggi)
+- [Sangubashi](#Sangubashi)
+- [Shibuya](#Shibuya)
+- [Shimokitazawa](#Shimokitazawa)
+- [Tamachi](#Tamachi)
+- [Togoshi-Ginza](#Togoshi-Ginza)
+- [Tsukiji](#Tsukiji)
+- [Yotsuya](#Yotsuya)
 
 #### Hatchobori
 
@@ -157,6 +158,12 @@
 - Street performers outside of the station. (usually musical performers)
 - There's a [Yayoiken] branch here. (our favorite restaurant!)
 
+#### Sangubashi
+
+- There's a "recycled" bicycle store here known as Recycle Garden Yoyogi.
+- There's also some decent restaurants here for food tripping.
+- Go here for [La Saison] french bakery. Almond croissant wont disappoint.
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -176,3 +183,4 @@
 [Franciscan Chapel Center]: http://franciscanchapelcentertokyo.org/
 [Yayoiken]: https://www.yayoiken.com/en/
 [Melon de Melon]: http://www.melon-de-melon.com/shop/detail/id=316
+[La Saison]: https://www.la-saison.jp/
