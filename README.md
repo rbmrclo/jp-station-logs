@@ -29,6 +29,7 @@
 - [Tamachi](#Tamachi)
 - [Togoshi-Ginza](#Togoshi-Ginza)
 - [Tsukiji](#Tsukiji)
+- [Yokohama](#Yokohama)
 - [Yotsuya](#Yotsuya)
 
 #### Hatchobori
@@ -188,6 +189,12 @@
 
 - Assembly for [Yakatabune Tour]
 
+#### Yokohama
+
+- [Yokohama China Town]. (quite pricey though compared to Binondo in Manila)
+- [Cup Noodles Museum] for day tour!
+- [Motomachi Shopping Street]
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -209,3 +216,6 @@
 [Melon de Melon]: http://www.melon-de-melon.com/shop/detail/id=316
 [La Saison]: https://www.la-saison.jp/
 [Yakatabune Tour]: http://www.yakatabune-kumiai.jp/en/
+[Yokohama China Town]: https://www.japan-guide.com/e/e3201.html
+[Cup Noodles Museum]: https://www.cupnoodles-museum.jp/en/yokohama/
+[Motomachi Shopping Street]: https://www.motomachi.or.jp/en/
