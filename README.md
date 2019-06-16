@@ -194,6 +194,7 @@
 - [Yokohama China Town]. (quite pricey though compared to Binondo in Manila)
 - [Cup Noodles Museum] for day tour!
 - [Motomachi Shopping Street]
+- Go to [Hara Donuts] for an afternoon coffee break after a tiring stroll at the shopping street.
 
 ---
 
@@ -219,3 +220,4 @@
 [Yokohama China Town]: https://www.japan-guide.com/e/e3201.html
 [Cup Noodles Museum]: https://www.cupnoodles-museum.jp/en/yokohama/
 [Motomachi Shopping Street]: https://www.motomachi.or.jp/en/
+[Hara Donuts]: https://www.motomachi.or.jp/en/shop/hara-donuts/
