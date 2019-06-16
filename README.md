@@ -46,6 +46,7 @@
 #### Tsukiji
 
 - Go here for streetfood. (tamago, seafood, fresh fruits, etc...)
+- Absolutely go here for Sushi.
 - Must-try [Omirine Bakers] for breads and pastries.
 - [Yonemoto Coffee Head Shop] for coffee.
 - Tsukijigawa Park for rest. (has smoking area too)
