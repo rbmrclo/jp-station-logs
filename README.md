@@ -1,12 +1,14 @@
 # Japan Station Logs
 
+- Personal journal of Tokyo life (curated by station)
+
 ## Tokyo
 
-- [[Hatchobori]]
-- [Nihombashi-Kayabacho]
-- [Tsukiji]
-- [Shibuya]
-- [Ginza]
+- [Hatchobori](#Hatchobori)
+- [Nihombashi](#Nihombashi)
+- [Tsukiji](#Tsukiji)
+- [Shibuya](#Shibuya)
+- [Ginza](#Ginza)
 
 #### Hatchobori
 
@@ -16,7 +18,7 @@
 - This is where I discovered [Celi Cream Puff]! Best financier that I've tried so far.
 - Stayed in APA Hotel Hatchobori-eki Minami (Jan 2018) - third business trip in Japan (SRE onboarding).
 
-#### Nihombashi-Kayabacho
+#### Nihombashi
 
 - Stayed at Sotetsu Fresa Inn Nihombashi-Kayabacho (June 2017) - free location work.
 
