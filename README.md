@@ -1,6 +1,7 @@
 # Japan Station Logs
 
 - Personal journal of Tokyo life (curated by station)
+- https://nicedoc.io/rbmrclo/jp-station-logs
 
 ## Tokyo
 
