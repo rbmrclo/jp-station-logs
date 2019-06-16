@@ -9,6 +9,20 @@
 - [Tsukiji](#Tsukiji)
 - [Shibuya](#Shibuya)
 - [Ginza](#Ginza)
+- [Shimokitazawa](#Shimokitazawa)
+- [Harajuki](#Harajuku)
+- [Omotesando](#Omotesando)
+- [Oji](#Oji)
+- [Oji-kamiya](#Oji-kamiya)
+- [Meguro](#Meguro)
+- [Tamachi](#Tamachi)
+- [Ebisu](#Ebisu)
+- [Togoshi-Ginza](#Togoshi-Ginza)
+- [Minami-Funabashi](#Minami-Funabashi)
+- [Asakusa](#Asakusa)
+- [Akibahara](#Akibahara)
+- [Yotsuya](#Yotsuya)
+- [Ropponggi](#Ropponggi)
 
 #### Hatchobori
 
@@ -43,14 +57,14 @@
 
 #### Ginza
 
-- Old Quipper office is located here.
+- Old Quipper office is located here. (2015 - 2018)
 - Posh.
 
 #### Shimokitazawa
 
-- FAVORITE PLACE!
+- ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ FAVORITE PLACE! ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 - Go to [Village Vanguard] for nerdy / unique souvenirs.
-- Go here for food tripping.
+- Go here for food tripping. (curry, coffee, etc.)
 - Check thrift stores!
 - A bit crowded but more breathable than Shibuya.
 
@@ -58,6 +72,76 @@
 
 - Crowded place, tourist spot, mostly teenagers / yuppies.
 - Go here for a stroll in [Yoyogi Park]
+- I don't like this place.
+
+#### Omotesando
+
+- Go here for fashion.
+- Trendy place. Shopaholics will love this place.
+
+#### Oji
+
+- Our city hall is located here. (Kita-ku)
+- Go here for [Gyu-kaku Yakiniku]
+- There's also a [Ginza Cozy Corner] here where you can buy affordable (but still good) Japanese Cheesecakes.
+
+#### Oji-kamiya
+
+- This is where we live right now (2019)
+- Nearby Summit Store! (open until 1AM!)
+- Nearby Uniqlo!
+- Lots of hair salons.
+- Quiet / peaceful place. Good place to build a family.
+- Jonathan's outside of the station! (decent family restaurant)
+
+#### Meguro
+
+- Current Quipper Office is located here (2018 ~ present).
+- Lively / Central neighborhood. Business area.
+- [AWS Loft] is located here.
+- There's also a nearby [Blue Bottle Coffee] here.
+- Nitori / Muji at Meguro Station.
+
+#### Tamachi
+
+- Lots of restaurants!
+- Drinking / Eating place here. Good for catch-up dinner.
+
+#### Ebisu
+
+- Upscale neighborhood.
+- [Shake Shack] outside of the station.
+
+#### Togoshi-Ginza
+
+- My first Airbnb experience in Tokyo is located here.
+- Go here for foodtrip!
+- Shopping street!
+- RECOMMENDED!
+
+#### Minami-Funabashi
+
+- IKEA!
+
+#### Asakusa
+
+- Tourist place.
+- Shopping Street. Foodtrip.
+- Temples / Shrines here. Good for photography.
+
+#### Akibahara
+
+- Electronics / Appliances / Gadgets
+
+#### Yotsuya
+
+- [St. Ignatius Catholic Church] here. (English Mass @ 12PM)
+
+#### Ropponggi
+
+- Go here for bars / nightlife experience.
+- There's also a branch of [Jomon] here.
+- [Franciscan Chapel Center] here. (English Mass @ 12PM)
 
 ---
 
@@ -69,3 +153,10 @@
 [Ikinari Steak]: https://ikinaristeakusa.com/
 [Yoyogi Park]: https://www.japan-guide.com/e/e3034_002.html
 [Village Vanguard]: https://tokyocheapo.com/shopping-2/village-vanguard-vintage-books-nerd/
+[Gyu-kaku Yakiniku]: https://www.gyu-kaku.com/
+[Ginza Cozy Corner]: https://www.cozycorner.co.jp/
+[AWS Loft]: https://aws.amazon.com/jp/start-ups/loft/tokyo/
+[Blue Bottle Coffee]: https://bluebottlecoffee.com/
+[Shake Shack]: https://www.shakeshack.com/
+[St. Ignatius Catholic Church]: https://www.facebook.com/pages/StIgnatius-Church-Yotsuya-Tokyo/107561729327132
+[Franciscan Chapel Center]: http://franciscanchapelcentertokyo.org/
