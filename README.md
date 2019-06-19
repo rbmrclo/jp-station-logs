@@ -125,10 +125,10 @@
 
 #### Togoshi-Ginza
 
-- My first Airbnb experience in Tokyo is located here.
-- Go here for foodtrip!
-- Shopping street!
-- RECOMMENDED!
+- ⭐️ ⭐️ ⭐️  RECOMMEND! ⭐️ ⭐️ ⭐️
+- My first Airbnb experience in Tokyo is located here. (Dec 2015)
+- Go here for foodtrip! Period.
+- Shopping street! (Shotengai)
 
 #### Minami-Funabashi
 
