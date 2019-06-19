@@ -3,7 +3,7 @@
 - Personal journal of Tokyo life (curated by station)
 - https://nicedoc.io/rbmrclo/jp-station-logs
 
-## Tokyo
+## Tokyo Metro
 
 - [Akabane](#Akabane)
 - [Akibahara](#Akibahara)
@@ -29,6 +29,7 @@
 - [Shinagawa](#Shinagawa)
 - [Tamachi](#Tamachi)
 - [Togoshi-Ginza](#Togoshi-Ginza)
+- [Tokyo](#Tokyo)
 - [Tsukiji](#Tsukiji)
 - [Yokohama](#Yokohama)
 - [Yotsuya](#Yotsuya)
@@ -196,6 +197,11 @@
 - [Cup Noodles Museum] for day tour!
 - [Motomachi Shopping Street]
 - Go to [Hara Donuts] for an afternoon coffee break after a tiring stroll at the shopping street.
+
+#### Tokyo
+
+- Shopping place. You can buy many kinds of _omiyage_ here.
+- Go here for Ramen at [Ramen Street](https://tokyocheapo.com/food-and-drink/tokyo-ramen-street/).
 
 ---
 
