@@ -143,6 +143,8 @@
 #### Akibahara
 
 - Electronics / Appliances / Gadgets
+- [Yodobashi Camera] and [Sofmap] for PC / laptops, peripheral devices, etc.
+- [GoGo Curry] - try the grand slam curry! (the serving is humongous though)
 
 #### Yotsuya
 
@@ -228,3 +230,5 @@
 [Cup Noodles Museum]: https://www.cupnoodles-museum.jp/en/yokohama/
 [Motomachi Shopping Street]: https://www.motomachi.or.jp/en/
 [Hara Donuts]: https://www.motomachi.or.jp/en/shop/hara-donuts/
+[Yodobashi Camera]: https://www.yodobashi.com/
+[Sofmap]: https://www.sofmap.com/
