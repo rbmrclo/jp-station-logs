@@ -14,6 +14,7 @@
 - [Harajuki](#Harajuku)
 - [Hatchobori](#Hatchobori)
 - [Ikebukuro](#Ikebukuro)
+- [Jujo](#Jujo)
 - [Kamiyacho](#Kamiyacho)
 - [Meguro](#Meguro)
 - [Minami-Funabashi](#Minami-Funabashi)
@@ -203,7 +204,11 @@
 #### Tokyo
 
 - Shopping place. You can buy many kinds of _omiyage_ here.
-- Go here for Ramen at [Ramen Street](https://tokyocheapo.com/food-and-drink/tokyo-ramen-street/).
+- Go here for Ramen at [Ramen Street]
+
+#### Jujo
+
+- [Jujo Ginza Shotengai] for food trip!
 
 ---
 
@@ -232,3 +237,5 @@
 [Hara Donuts]: https://www.motomachi.or.jp/en/shop/hara-donuts/
 [Yodobashi Camera]: https://www.yodobashi.com/
 [Sofmap]: https://www.sofmap.com/
+[Jujo Ginza Shotengai]: https://likeafishinwater.com/2016/05/06/jujo-ginza-shotengai/
+[Ramen Street]: https://tokyocheapo.com/food-and-drink/tokyo-ramen-street/
