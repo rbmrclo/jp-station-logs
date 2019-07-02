@@ -27,6 +27,7 @@
 - [Sangubashi](#Sangubashi)
 - [Shibuya](#Shibuya)
 - [Shimokitazawa](#Shimokitazawa)
+- [Shin-Okubo](#Shin-Okubo)
 - [Shinagawa](#Shinagawa)
 - [Tamachi](#Tamachi)
 - [Togoshi-Ginza](#Togoshi-Ginza)
@@ -171,7 +172,7 @@
 
 #### Sangubashi
 
-- There's a "recycled" bicycle store here known as Recycle Garden Yoyogi.
+- There's a "recycled" bicycle store here known as [Recycle Garden Yoyogi].
 - There's also some decent restaurants here for food tripping.
 - Go here for [La Saison] french bakery. Almond croissant wont disappoint.
 
@@ -210,6 +211,12 @@
 
 - [Jujo Ginza Shotengai] for food trip!
 
+#### Shin-Okubo
+
+- ☺️ ☺️ ☺️  Korean Town! ☺️ ☺️ ☺️
+- Lots of korean restaurants!
+- [Boss Chicken] for KFC! (korean fried chicken)
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -239,3 +246,5 @@
 [Sofmap]: https://www.sofmap.com/
 [Jujo Ginza Shotengai]: https://likeafishinwater.com/2016/05/06/jujo-ginza-shotengai/
 [Ramen Street]: https://tokyocheapo.com/food-and-drink/tokyo-ramen-street/
+[Recycle Garden Yoyogi]: https://www.tokyocreative.com/sights/3037-recycle-garden-yoyogi
+[Boss Chicken]: https://goo.gl/maps/FEq3MWPj8wbhanZh8
