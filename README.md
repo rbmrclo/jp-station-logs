@@ -65,7 +65,7 @@
 - First discovered [Ikinari Steak] here.
 - [Jomon] for yakitori (izakaya)
 - This [Gyoza Restaurant in Shibuya].
-- Go here for Gong Cha
+- Go here for Gong Cha (it's famous in PH too)
 - Go to [Village Vanguard] for nerdy / unique souvenirs.
 
 #### Ginza
