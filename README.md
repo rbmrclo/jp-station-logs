@@ -5,7 +5,6 @@
 
 ## Tokyo Metro
 
-- [Ueno](#Ueno)
 - [Akabane](#Akabane)
 - [Akibahara](#Akibahara)
 - [Asakusa](#Asakusa)
@@ -35,6 +34,7 @@
 - [Togoshi-Ginza](#Togoshi-Ginza)
 - [Tokyo](#Tokyo)
 - [Tsukiji](#Tsukiji)
+- [Ueno](#Ueno)
 - [Yokohama](#Yokohama)
 - [Yotsuya](#Yotsuya)
 
