@@ -35,6 +35,7 @@
 - [Tsukiji](#Tsukiji)
 - [Yokohama](#Yokohama)
 - [Yotsuya](#Yotsuya)
+- [Tawaramachi](#Tawaramachi)
 
 #### Hatchobori
 
@@ -217,6 +218,11 @@
 - Lots of korean restaurants!
 - [Boss Chicken] for KFC! (korean fried chicken)
 
+#### Tawamarachi
+
+- [Kappabashi Street] - a.k.a Kitchen Town
+- All kitchen tools are here (plates, bowls, etc.)
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -248,3 +254,4 @@
 [Ramen Street]: https://tokyocheapo.com/food-and-drink/tokyo-ramen-street/
 [Recycle Garden Yoyogi]: https://www.tokyocreative.com/sights/3037-recycle-garden-yoyogi
 [Boss Chicken]: https://goo.gl/maps/FEq3MWPj8wbhanZh8
+[Kappabashi Street]: https://www.japan-guide.com/e/e3020.html
