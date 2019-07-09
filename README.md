@@ -5,6 +5,7 @@
 
 ## Tokyo Metro
 
+- [Ueno](#Ueno)
 - [Akabane](#Akabane)
 - [Akibahara](#Akibahara)
 - [Asakusa](#Asakusa)
@@ -223,6 +224,11 @@
 - [Kappabashi Street] - a.k.a Kitchen Town
 - All kitchen tools are here (plates, bowls, etc.)
 
+#### Ueno
+
+- [Ueno Shopping Malls]
+- [Mendokoro Hanada Ramen]
+
 ---
 
 [Yonemoto Coffee Head Shop]: http://www.yonemoto-coffee.com
@@ -255,3 +261,5 @@
 [Recycle Garden Yoyogi]: https://www.tokyocreative.com/sights/3037-recycle-garden-yoyogi
 [Boss Chicken]: https://goo.gl/maps/FEq3MWPj8wbhanZh8
 [Kappabashi Street]: https://www.japan-guide.com/e/e3020.html
+[Ueno Shopping Malls]: https://www.japanvisitor.com/tokyo/tokyo-area-guides/uenookachimachishopping
+[Mendokoro Hanada Ramen]: https://foursquare.com/v/%E9%BA%BA%E5%87%A6-%E8%8A%B1%E7%94%B0/4e6b46bb18a83989ecd3287c
