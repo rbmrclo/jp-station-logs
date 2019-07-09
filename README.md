@@ -30,12 +30,12 @@
 - [Shin-Okubo](#Shin-Okubo)
 - [Shinagawa](#Shinagawa)
 - [Tamachi](#Tamachi)
+- [Tawaramachi](#Tawaramachi)
 - [Togoshi-Ginza](#Togoshi-Ginza)
 - [Tokyo](#Tokyo)
 - [Tsukiji](#Tsukiji)
 - [Yokohama](#Yokohama)
 - [Yotsuya](#Yotsuya)
-- [Tawaramachi](#Tawaramachi)
 
 #### Hatchobori
 
