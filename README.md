@@ -165,7 +165,8 @@
 - Lots of Izakayas!
 - Go here for drinking / eating! Good for catch-ups!
 - There's a [Yayoiken] branch here. (our favorite restaurant!)
-- Go here for [Melon de Melon] - melon pan!
+- There's a [Melon de Melon] branch here!
+- Must try [Akabane Anko]!
 
 #### Gotanda
 
@@ -263,3 +264,4 @@
 [Kappabashi Street]: https://www.japan-guide.com/e/e3020.html
 [Ueno Shopping Malls]: https://www.japanvisitor.com/tokyo/tokyo-area-guides/uenookachimachishopping
 [Mendokoro Hanada Ramen]: https://foursquare.com/v/%E9%BA%BA%E5%87%A6-%E8%8A%B1%E7%94%B0/4e6b46bb18a83989ecd3287c
+[Akabane Anko]: https://www.yelp.com/biz/%E8%B5%A4%E7%BE%BD%E3%81%82%E3%82%93%E3%81%93-%E5%8C%97%E5%8C%BA
